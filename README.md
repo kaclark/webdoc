@@ -7,3 +7,4 @@ Goals
 [ ] Make Table of pages
 [ ] Allow annotation system
 [ ] Refactor as Reactpy or pyscript
+[ ] Develop Navigation Bar
