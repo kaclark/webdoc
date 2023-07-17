@@ -1,7 +1,8 @@
 # webdoc
-PDF to to static generated html<br><br> 
-
+PDF to to static generated html<br> 
+============
 Goals<br>
+============
 [ ] Load pdf page to basic html<br>
 [ ] Link pages<br>
 [ ] Make Table of pages<br>
