@@ -21,7 +21,7 @@ def gen_header():
     '''
 
 def gen_p(text):
-    return f'''<p>
+    return f'''<p id="page">
     {text}
     </p>'''
 

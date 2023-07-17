@@ -1,6 +1,6 @@
 webdoc<br>
    PDF to to static generated html<br> 
 Goals<br>
-[ ] Right Align Page number<br>
-[ ] Allow adjustment of font size and spacing(test pyscript)<br>
+[x] Right Align Page number<br>
+[x] Adjustment of font size and spacing<br>
 [x] Load pdf page to basic html<br>
