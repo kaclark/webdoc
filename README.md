@@ -8,3 +8,4 @@ Goals
 [ ] Allow annotation system
 [ ] Refactor as Reactpy or pyscript
 [ ] Develop Navigation Bar
+[ ] Setup github.io page
