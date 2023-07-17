@@ -3,11 +3,11 @@ PDF to to static generated html<br><br>
 
 Goals<br>
 [ ] Load pdf page to basic html<br>
-[ ] Link pages
-[ ] Make Table of pages
-[ ] Allow annotation system
-[ ] Add comments section
-[ ] Track text engagement
-[ ] Refactor as Reactpy or pyscript
-[ ] Develop Navigation Bar
-[ ] Setup github.io page
+[ ] Link pages<br>
+[ ] Make Table of pages<br>
+[ ] Allow annotation system<br>
+[ ] Add comments section<br>
+[ ] Track text engagement<br>
+[ ] Refactor as Reactpy or pyscript<br>
+[ ] Develop Navigation Bar<br>
+[ ] Setup github.io page<br>
